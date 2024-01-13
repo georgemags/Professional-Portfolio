@@ -73,3 +73,25 @@
   ul {
     list-style: none;
   }
+
+  .card {
+    border: solid;
+    padding: 10px;
+    flex: 0 0 300px;
+    width: 20%;
+    height: 20%;
+  }
+  
+  .card > img {
+    width: 20%;
+    height: 20%;
+    
+  }
+
+  .madeWork {
+    flex: 1;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
