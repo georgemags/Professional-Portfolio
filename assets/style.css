@@ -24,7 +24,7 @@
   
   nav {
     display: flex;
-    background-color: #d8a47f;
+    background-color:  #b9c6ae;
   }
   
   main {
@@ -61,4 +61,15 @@
     border-radius: 70px;
     transform: rotate(270deg);
     padding: 50px;
+  }
+
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    flex-direction: row;
+  }
+  
+  ul {
+    list-style: none;
   }
