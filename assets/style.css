@@ -81,12 +81,6 @@
     width: 20%;
     height: 20%;
   }
-  
-  .card > img {
-    width: 20%;
-    height: 20%;
-    
-  }
 
   .madeWork {
     flex: 1;
@@ -94,4 +88,16 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+  }
+
+  .card > img {
+    width: 100%;
+    height: 50%;
+  }
+
+  
+  .card > header {
+  /* This is the same as `border-radius: 50px 50px 0 0 */
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+  padding: 20px;
   }
