@@ -32,3 +32,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 For this project I have created a professional portfolio. In this project I have a section about me which describes who I am and what I like to do. Then I was a my work
 section which showcases some of the other projects I have worked on. Finally I have a
 contact me section in the footer which is some ways to contact me. 
+
+## Live Webpage
+
+https://georgemags.github.io/Professional-Portfolio
